@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () {
   // GitHub API URL for releases
   var apiUrl =
-    "https://api.github.com/repos/Ogwenya/pdf-stitch/releases/latest";
+    "https://api.github.com/repos/Ogwenya/pdf-stitch-old/releases/latest";
 
   // Select the download button
   let windows_button = document.getElementById("windows_button");
